@@ -7,6 +7,9 @@
   "bin": {
     "gcm": "dist/cli/index.js"
   },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "build:watch": "tsc --watch",
@@ -26,7 +29,9 @@
     "ai",
     "openai",
     "anthropic",
-    "cli"
+    "cli",
+    "developer-tools",
+    "productivity"
   ],
   "author": "Samir Cabrera",
   "license": "MIT",
