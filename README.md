@@ -57,6 +57,7 @@ Configuration is saved to `~/.gcm/config.json` with restricted file permissions.
 | `gcm`              | Generate commit message from staged changes|
 | `gcm --setup`      | Run or re-run the setup wizard             |
 | `gcm --dry-run`    | Show message without committing            |
+| `gcm --verbose`    | Print diff sent to LLM and raw response    |
 | `gcm --provider X` | Override provider for this run             |
 | `gcm --model X`    | Override model for this run                |
 | `gcm --help`       | Show usage information                     |
@@ -87,7 +88,7 @@ Configuration is saved to `~/.gcm/config.json` with restricted file permissions.
 ## Development
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gcm-ai.git
+git clone https://github.com/samcab28/GCM-AI.git
 cd gcm-ai
 npm install
 npm run build
