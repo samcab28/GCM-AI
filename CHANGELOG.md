@@ -52,4 +52,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   messages, never sent anywhere except the user's chosen LLM endpoint.
 - Diff content sent only to the LLM — not stored, not cached.
 
-[0.1.0]: https://github.com/your-org/gcm-ai/releases/tag/v0.1.0
+[0.1.0]: https://github.com/samcab28/GCM-AI/releases/tag/v0.1.0
