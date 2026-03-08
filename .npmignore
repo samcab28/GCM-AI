@@ -1,0 +1,9 @@
+src/
+test/
+tsconfig.json
+CLAUDE.md
+.vscode/
+.idea/
+*.map
+coverage/
+.nyc_output/
